@@ -1,7 +1,7 @@
 # pyjournal
 
 * pyJournal, a Diary app, is written in python.
-* It runs on multiple platforms with ease and maintains all your journal entries in a neat way 
+* It maintains all your journal entries in a neat way 
   which can be accessed by you anytime.
 * With just a few commands to remember, it can't get easier than this.
 
